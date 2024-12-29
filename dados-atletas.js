@@ -53,7 +53,7 @@ class Atleta {
                 soma = soma + notasValidas;
             })
             media = soma / notasValidas.length;
-            return `Media válida: ${media.toFixed(6)}`;
+            return `Media válida: ${media.toFixed(8)}`;
     }
 
     obtemMediaValida() {
