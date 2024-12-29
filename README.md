@@ -33,11 +33,16 @@ Utilize as seguintes regras:
 
 ## 1. Para calcular a categoria
 
-Infantil: 9 a 11 anos
-Juvenil: 12 e 13 anos
-Intermediário: 14 e 15 anos
-Adulto: 16 a 30 anos
-Sem categoria: demais idades
+Infantil: 9 a 11 anos.
+
+Juvenil: 12 e 13 anos.
+
+Intermediário: 14 e 15 anos.
+
+Adulto: 16 a 30 anos.
+
+Sem categoria: demais idades.
+
 ## 2. Para calcular o IMC
 
 Fórmula: imc = peso / (altura x altura)
